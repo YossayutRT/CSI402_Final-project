@@ -20,7 +20,7 @@ function App() {
             <a href="#" className="nav-link active">Home</a>
             <a href="#" className="nav-link">Menu</a>
             <a href="#" className="nav-link">Story</a>
-            <a href="#" className="nav-link">Contact</a>
+            <a href="#" className="nav-link">Promotions</a>
           </div>
 
           <div className="nav-actions">
